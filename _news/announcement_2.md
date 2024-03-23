@@ -14,12 +14,17 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 
 #### Hipster list
 
-<ul>
+<!-- <ul>
     <li>brunch</li>
     <li>fixie</li>
     <li>raybans</li>
     <li>messenger bag</li>
-</ul>
+</ul> -->
+- brunch
+- fixie 
+    - raybans
+- messenger bag
+[Link](https://www.pinterest.co)
 
 Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
