@@ -17,8 +17,11 @@ The cyber kill chain is a series of steps that trace the stages of a cyberattack
 ## 7 Steps of Cyber Kill Chain
 Lockheed Martin’s cyber kill chain breaks down a cyberattack into 7 distinct steps: 
 
-<!-- <img src = "../assets/img/cyber_kill_chain.png"> -->
-![Cyber Kill Chain](../assets/img/cyber_kill_chain.png)
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cyber_kill_chain.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ### 1. Reconnaissance
 The observation stage: attackers typically assess the situation from the outside-in, in order to identify both targets and tactics for the attack, it’s the preliminary step of an attack. During reconnaissance, an attacker is seeking information that might reveal vulnerabilities and weak points in the system. Firewalls, intrusion prevention systems, perimeter security, even social media accounts – get ID’d and investigated. Reconnaissance tools scan corporate networks to search for points of entry and vulnerabilities to be exploited.
@@ -55,7 +58,7 @@ This stage is the defender’s “last best chance” to block the operation: by
 The longer an adversary has this level of access, the greater the impact.  Defenders must detect this stage as quickly as possible and deploy tools that will enable them to collect forensic evidence. One example would include network packet captures, for damage assessment.
 
 
-### Resources
+## Resources
 - [Lockheed Martin's White Paper](https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 - [SANS Security Awareness](https://www.sans.org/security-awareness-training/blog/applying-security-awareness-cyber-kill-chain)
-- [Varonis- Cyber Kill chain](https://www.varonis.com/blog/cyber-kill-chain/)
+- [Varonis Cyber Kill chain](https://www.varonis.com/blog/cyber-kill-chain/)
