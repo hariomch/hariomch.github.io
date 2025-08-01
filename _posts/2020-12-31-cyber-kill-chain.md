@@ -19,7 +19,7 @@ Lockheed Martin’s cyber kill chain breaks down a cyberattack into 7 distinct s
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cyber_kill_chain.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/blogs/cyber_kill_chain.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
